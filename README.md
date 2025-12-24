@@ -1,16 +1,18 @@
-## 👋 Intro
+## Intro
 
-I deal with Data Center Networking, Linux, and Kubernetes.
+I deal with Data Center Networking, Linux, and Kubernetes. I also enjoy learning about Security.
+It's been a long time since I had to plug in an ethernet cable at work, but I do miss those days. 
 
 ## Personal
 
 - CKA certified
 - CCNA certified
+- Linux Certified
 
 ## Interests
 
-- Automating infrastructure and network security
-- Building and simulating lab environments
+- Building out infrastructure and networks
+- Simulating production networks in lab environments
 - Self-hosting
-- Learning secure networking principles
-- Software Defined Networking
+- Learning
+- Brazilian Jiu-Jitsu
